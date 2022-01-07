@@ -1,5 +1,6 @@
 // 앞으로 숫자 operator 도 같이 나오게끔...
 // 괄호들어있는 숫자 계산(우선순위)
+// current를 다시 0으로 
 
 const $total = document.querySelector("#total");
 const $modifier = document.querySelector("#modifier");
